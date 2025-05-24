@@ -161,6 +161,9 @@
         - Probing
     - [Huffman Coding](https://youtu.be/XLfgeaYHinM)
     - [Karp-Rabin Strng matching algorithm](https://youtu.be/swciWFPq3NE)
+    - 
+
+    //things left
 - Subarray Questions: Sliding window, Two Pointer, Kadane's Algorithm
 - Graphs
     - Introduction
@@ -174,6 +177,14 @@
     - Topological Sort
     - Bellman ford
     - A* pathfinding Algorithm
+
+ //algorithms left by sir
+     flood fill
+     kahns
+     floyd warshall
+     kosarajus 
+     tarjans
+- 
 - Dynamic Programming
     - Introduction
     - Recursion + Recursion DP + Iteration + Iteration Space Optimized
