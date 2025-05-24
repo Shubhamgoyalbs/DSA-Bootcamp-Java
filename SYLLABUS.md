@@ -179,10 +179,10 @@
     - A* pathfinding Algorithm
 
  //algorithms left by sir
-     flood fill
-     kahns
-     floyd warshall
-     kosarajus 
+     flood fill,
+     kahns,
+     floyd warshall,
+     kosarajus ,
      tarjans
 - 
 - Dynamic Programming
